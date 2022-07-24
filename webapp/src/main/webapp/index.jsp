@@ -1,6 +1,6 @@
 
 
-           Welcome to DevOps - Kiran
+           Welcome to DevOps - Kiran - Hosting Java project on Tomcat server
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
