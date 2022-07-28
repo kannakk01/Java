@@ -4,7 +4,7 @@
 
    Kiran Kumar K - Hosting Java project on Docker on Tomcat webserver
 
-   Welcome form:
+   Welcome form :
 
 <form action="action_page.php">
   <div class="container">
