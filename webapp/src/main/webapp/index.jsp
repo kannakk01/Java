@@ -1,6 +1,8 @@
 
 
-          Welcome to DevOps - Kiran - Hosting Java project on Tomcat server
+   Welcome to DevOps 
+
+   Kiran - Hosting Java project on Docker on Tomcat webserver
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
@@ -8,9 +10,14 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <label for="Name"><b>Enter First Name</b></label>
+    <input type="text" placeholder="Enter First Name" name="Name" id="Name" required>
     <br>
+
+    <label for="Last Name"><b>Enter Last Name</b></label>
+    <input type="text" placeholder="Enter Last Name" name="Name" id="Name" required>
+    <br>
+
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
