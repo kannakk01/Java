@@ -16,7 +16,7 @@
 
     <h2> Welcome to Kubernetes </h2>
 
-    <h3> Welcome to Java application</h3>
+    <h3> ** Welcome to Java application **</h3>
 
     <p>Please fill in this form to create an account.</p>
     <hr>
