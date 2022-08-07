@@ -14,9 +14,9 @@
 
     <h1> *** ------%%% Welcome to Jenkins Automation %%%%%------- *** </h1>
 
+    <h2> Welcome to Kubernetes </h2>
 
-
-    <h2> Welcome to Java application</h1>
+    <h3> Welcome to Java application</h3>
 
     <p>Please fill in this form to create an account.</p>
     <hr>
