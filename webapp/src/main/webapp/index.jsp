@@ -14,7 +14,7 @@
 
     <h1> *** ------%%% Welcome to Jenkins Automation %%%%%------- *** </h1>
 
-    <h2> Welcome to Kubernetes </h2>
+    <h2> ** -- Welcome to Kubernetes -- ** </h2>
 
     <h3> ***%% Welcome to Java application %%***</h3>
 
